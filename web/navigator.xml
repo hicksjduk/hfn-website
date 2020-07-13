@@ -5,7 +5,7 @@
 	<item title="Contacts" pageID="contacts"/>
 	<item title="Diary" pageID="diary"/>
 	<!-- item title="Resources" pageID="resources"/-->
-	<item title="Documents" pageID="documents"/>
+	<!-- <item title="Documents" pageID="documents"/-->
 	<item title="AGM 2013" pageID="agm2013"/>
 	<item title="Links" pageID="links"/>
 </navigator>
