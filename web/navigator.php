@@ -6,7 +6,7 @@ $items = array(
 		new NavigatorItem("contacts", "Contacts", "page.php?id=contacts"),
 		new NavigatorItem("diary", "Diary", "page.php?id=diary"),
 //		new NavigatorItem("resources", "Resources", "page.php?id=resources"),
-		new NavigatorItem("documents", "Documents", "page.php?id=documents"),
+//		new NavigatorItem("documents", "Documents", "page.php?id=documents"),
 		new NavigatorItem("links", "Links", "page.php?id=links"),
 )
 ?>
