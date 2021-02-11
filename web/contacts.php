@@ -1,10 +1,9 @@
 
 <h1>Contacts</h1>
 <p>For general information about the Hampshire Fairtrade Network please
-		e-mail <?= (new Mailto('info'))->getMailtoCall()?>, or contact one of the office-holders listed below (click their name
-	to send them an e-mail).
+		e-mail <?= (new Mailto('info'))->getMailtoCall()?>.
 
-<table class="contacts">
+<!--table class="contacts">
 	<tbody>
 		<tr>
 			<td>Secretary</td>
@@ -19,7 +18,7 @@
 						</td>
 		</tr>
 	</tbody>
-</table>
+</table-->
 <p>For information about a particular local group please visit their
 	website (click the area name below), or e-mail the contact person shown
 	by clicking their name. If the area you are interested in is not
