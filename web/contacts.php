@@ -50,13 +50,13 @@
 				</td>
 		</tr>
 		<tr>
-			<td><a href="http://www.portsmouthfairtrade.org.uk/gfa.htm">Gosport<a></a></td>
+			<td><a href="https://www.gosportfairtradeaction.org.uk/">Gosport<a></a></td>
 			<td><?= (new Mailto('gosport', 'portsmouthfairtrade.org.uk'))->getMailtoCall("Sarah Hirom")?>
 				</td>
 		</tr>
 		<tr>
 			<td><a
-				href="http://www.portsmouthfairtrade.org.uk/7-fairtrade-in-havant/">Havant</a></td>
+				href="http://www.campaign.exchange/groups/havant-borough-fairtrade-forum/">Havant</a></td>
 			<td><?= (new Mailto('sue.james', 'yahoo.com'))->getMailtoCall("Sue James")?>
 				</td>
 		</tr>
@@ -66,7 +66,7 @@
 				</td>
 		</tr>
 		<tr>
-			<td><a href="http://www.portsmouthfairtrade.org.uk/">Portsmouth</a></td>
+			<td><a href="http://www.campaign.exchange/groups/fair-trade-portsmouth/">Portsmouth</a></td>
 			<td><?= (new Mailto('sue.james', 'yahoo.com'))->getMailtoCall("Sue James")?>
 				</td>
 		</tr>
