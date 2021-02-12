@@ -1,9 +1,12 @@
-<?php
+	<?php
 $qstr = getenv ( 'QUERY_STRING' );
-parse_str ( $qstr );
-if ($id == "")
+parse_str ( $qstr, $data );
+if (array_key_exists('id', $data))
+	$id = $data['id'];
+else
 	$id = "home";
 include 'mailto.php';
+date_default_timezone_set("Europe/London")
 ?>
 <html>
 <head>
